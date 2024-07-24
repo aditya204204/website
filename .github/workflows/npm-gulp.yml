@@ -26,3 +26,5 @@ jobs:
       run: |
         npm install
         gulp
+
+         run: npm install --global gulp-cli
